@@ -1,1 +1,1 @@
-# QQQ-ETF-Forecasting
+# Financial Forecasting using LSTMs and Sentiment
