@@ -11,4 +11,6 @@ We then trained a **Long Short-Term Memory (LSTM)** neural network to evaluate w
 
 ## How to Run
 
-To run our code, the dataset are already included within the repository so everything should run smoothly. Given that you wanted to recreate our project using a different stock. You can change the ticker symbol in our ClosingPriceModel notebook. To run our combined model notebook with a new stock you would need to find sentiment data on the given stock then re-adjust our NvidiaSentiment notebook that creates sentiment quickly by levearge batched inference.
+To run our code, the dataset are include in the link below so everything should run smoothly. Given that you wanted to recreate our project using a different stock. You can change the ticker symbol in our ClosingPriceModel notebook. To run our combined model notebook with a new stock you would need to find sentiment data on the given stock then re-adjust our NvidiaSentiment notebook that creates sentiment quickly by levearge batched inference.
+
+Datasets: [Project Datasets](https://drive.google.com/file/d/1_WnUpfYkb20YyCcxKaJCTrJKNQ0ordhx/view?usp=sharing)
